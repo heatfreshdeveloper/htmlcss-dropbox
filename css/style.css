@@ -4,3 +4,113 @@
     box-sizing: border-box;
 }
 
+/* Sezione dei tag */
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+/* Sezione delle classi */
+
+.navbar {
+    background-color: white;
+    position: fixed;
+    height: 65px;
+    width: 100%;
+    z-index: 10;
+}
+
+.navbar1 {
+    vertical-align: middle;
+    display: inline-block;
+    width: 49%;
+}
+
+.nav-img {
+    padding: 20px;
+    display: inline-block;
+}
+
+.navbar1 ul {
+    display: inline-block;
+}
+
+.navbar1 li {
+    list-style: none;
+    float: left;
+}
+
+.navbar1 li a {
+    text-decoration: none;
+    color: black;
+    margin: 0 20px;
+}
+
+.navbar2 {
+    vertical-align: middle;
+    display: inline-block;
+    text-align: right;
+    width: 50%;
+}
+
+.navbar2 ul {
+    display: inline-block;
+}
+
+.navbar2 ul li {
+    list-style: none;
+    display: inline-block;
+}
+
+.navbar2 li a {
+    text-decoration: none;
+    color:black;
+    margin: 0 20px;
+}
+
+.header {
+    background-color: #B4D0E7;
+    height: 600px;
+}
+
+.container-header {
+    transform: translate(150px, 150px);
+    width: 80%;
+}
+
+.h1-header h1 {
+    font-size: 60px;
+    display: inline-block;
+}
+
+/* Sezione delle utilities */
+
+.btn-normal {
+    color: white;
+    background-color:#0061FF;
+    padding: 5px 20px;
+    font-size: 14px;
+}
+
+.nav-padding {
+    padding: 20px;
+}
+
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.col-1_9 {
+    width: calc(100% / 9);
+}
+
+.col-2_9 {
+    width: calc(100% / 9 * 2);
+}
+
+.col-3_9 {
+    width: calc(100% / 9 * 3);
+}
