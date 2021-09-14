@@ -134,11 +134,17 @@ body {
     margin-left: 25px;
 }
 
+.type-box {
+    height: 900px;
+}
+
 .type-box1 {
     border: 1px solid #637381;
     display: inline-block;
     padding: 10px 0;
     width: 30%;
+    height: 900px;
+    margin-right: 40px;
 }
 
 .type-box1 i {
@@ -171,10 +177,12 @@ body {
 .type1-offers p {
     margin-bottom: 18px;
     font-size: 12px;
+    padding-left: 20px;
 }
 
+
 .type1-offers i {
-    padding-right: 5px;
+    margin-left: -20px;
 }
 
 .type1-button {
@@ -183,11 +191,11 @@ body {
 
 .type1-button p {
     font-size: 12px;
+    margin-bottom: 20px;
 }
 
 .type1-button p a {
     font-size: 12px;
-    margin-bottom: 18px;
 }
 
 .type1-button :nth-child(1) {
@@ -195,6 +203,207 @@ body {
     text-align: center;
     margin-bottom: 30px;
 }
+
+.other-button {
+    border-bottom: 1px solid #637381;
+}
+
+.options {
+    padding: 25px;
+}
+
+.options ul {
+    font-size: 12px;
+}
+
+.options ul li {
+    list-style: none;
+    margin: 20px 0;
+    padding-left: 20px;
+}
+
+.options ul li span {
+    color: #0061FF;
+    margin-left: -20px;
+}
+
+.type-box2 {
+    border: 1px solid #637381;
+    display: inline-block;
+    padding: 10px 0;
+    width: 30%;
+    height: 900px;
+    margin-right: 40px;
+}
+
+.type-box2 i {
+    padding-right: 5px;
+}
+
+.type p {
+    text-align: center;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #637381;
+}
+
+.type2-title {
+    padding: 25px;
+}
+
+.type2-title p {
+    margin-top: 16px;
+    font-weight: bold;
+}
+
+.type2-title .grey {
+    margin-top: 8px;
+}
+
+.type2-offers {
+    padding: 25px;
+}
+
+.type2-offers p {
+    margin-bottom: 18px;
+    font-size: 12px;
+    padding-left: 20px;
+}
+
+
+.type2-offers i {
+    margin-left: -20px;
+}
+
+.type2-button {
+    padding: 0 25px;
+}
+
+.type2-button p {
+    font-size: 12px;
+    margin-bottom: 20px;
+}
+
+.type2-button p a {
+    font-size: 12px;
+}
+
+.type2-button :nth-child(1) {
+    text-decoration: none;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.other-button {
+    border-bottom: 1px solid #637381;
+}
+
+.options {
+    padding: 25px;
+}
+
+.options ul {
+    font-size: 12px;
+}
+
+.options ul li {
+    list-style: none;
+    margin: 20px 0;
+    padding-left: 20px;
+}
+
+.options ul li span {
+    color: #0061FF;
+    margin-left: -20px;
+}
+
+.type-box3 {
+    border: 1px solid #637381;
+    display: inline-block;
+    padding: 10px 0;
+    width: 30%;
+    height: 900px;
+}
+
+.type-box3 i {
+    padding-right: 5px;
+}
+
+.type p {
+    text-align: center;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #637381;
+}
+
+.type3-title {
+    padding: 25px;
+}
+
+.type3-title p {
+    margin-top: 16px;
+    font-weight: bold;
+}
+
+.type3-title .grey {
+    margin-top: 8px;
+}
+
+.type3-offers {
+    padding: 25px;
+}
+
+.type3-offers p {
+    margin-bottom: 18px;
+    font-size: 12px;
+    padding-left: 20px;
+}
+
+
+.type3-offers i {
+    margin-left: -20px;
+}
+
+.type3-button {
+    padding: 0 25px;
+}
+
+.type3-button p {
+    font-size: 12px;
+    margin-bottom: 20px;
+}
+
+.type3-button p a {
+    font-size: 12px;
+}
+
+.type3-button :nth-child(1) {
+    text-decoration: none;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.other-button {
+    border-bottom: 1px solid #637381;
+}
+
+.options {
+    padding: 25px;
+}
+
+.options ul {
+    font-size: 12px;
+}
+
+.options ul li {
+    list-style: none;
+    margin: 20px 0;
+    padding-left: 20px;
+}
+
+.options ul li span {
+    color: #0061FF;
+    margin-left: -20px;
+}
+
 
 /* Sezione delle utilities */
 
