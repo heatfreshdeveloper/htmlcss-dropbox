@@ -162,16 +162,38 @@ body {
 
 .type1-title .grey {
     margin-top: 8px;
-    margin-bottom: 5px
 }
 
 .type1-offers {
     padding: 25px;
-    margin-top: 5px;
+}
+
+.type1-offers p {
+    margin-bottom: 18px;
+    font-size: 12px;
 }
 
 .type1-offers i {
     padding-right: 5px;
+}
+
+.type1-button {
+    padding: 0 25px;
+}
+
+.type1-button p {
+    font-size: 12px;
+}
+
+.type1-button p a {
+    font-size: 12px;
+    margin-bottom: 18px;
+}
+
+.type1-button :nth-child(1) {
+    text-decoration: none;
+    text-align: center;
+    margin-bottom: 30px;
 }
 
 /* Sezione delle utilities */
