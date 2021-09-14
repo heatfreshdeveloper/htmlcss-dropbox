@@ -109,6 +109,71 @@ body {
     font-size: 14px;
 }
 
+.text-header i {
+    font-size: 30px;
+    padding-top: 30px;
+}
+
+.offers {
+    width: 65%;
+    margin: 0 auto;
+    padding-top: 120px;
+}
+
+.offers h2 {
+    font-size: 35px;
+    font-weight: bolder;
+}
+
+.box-radio {
+    padding-top: 40px;
+    margin-bottom: 25px;
+}
+
+.box-radio .second-radio {
+    margin-left: 25px;
+}
+
+.type-box1 {
+    border: 1px solid #637381;
+    display: inline-block;
+    padding: 10px 0;
+    width: 30%;
+}
+
+.type-box1 i {
+    padding-right: 5px;
+}
+
+.type p {
+    text-align: center;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #637381;
+}
+
+.type1-title {
+    padding: 25px;
+}
+
+.type1-title p {
+    margin-top: 16px;
+    font-weight: bold;
+}
+
+.type1-title .grey {
+    margin-top: 8px;
+    margin-bottom: 5px
+}
+
+.type1-offers {
+    padding: 25px;
+    margin-top: 5px;
+}
+
+.type1-offers i {
+    padding-right: 5px;
+}
+
 /* Sezione delle utilities */
 
 .btn-normal {
@@ -126,6 +191,10 @@ body {
     content: "";
     display: table;
     clear: both;
+}
+
+.grey {
+    color: #637381;
 }
 
 .col-1_9 {
