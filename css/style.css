@@ -404,6 +404,42 @@ body {
     margin-left: -20px;
 }
 
+.type-box-final {
+    border: 1px solid #637381;
+    padding: 10px 0;
+    width: 987.48px;
+    margin: 50px auto;
+}
+
+.type-box-final-title {
+    padding: 25px;
+}
+
+.type-box-final-title h4 {
+    font-size: 14px;
+    padding-top: 16px;
+}
+
+.type-box-final-title p {
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.type-box-final-button p {
+    font-size: 12px;
+    float: right;
+    margin-top: -20px;
+    margin-bottom: 20px;
+}
+
+.type-box-final-button p a {
+    font-size: 12px;
+    text-decoration: none;
+    text-align: right;
+}
+
+
 
 /* Sezione delle utilities */
 
