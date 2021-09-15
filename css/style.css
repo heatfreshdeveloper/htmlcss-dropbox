@@ -134,10 +134,6 @@ body {
     margin-left: 25px;
 }
 
-.type-box {
-    height: 900px;
-}
-
 .type-box1 {
     border: 1px solid #637381;
     display: inline-block;
@@ -407,7 +403,7 @@ body {
 .type-box-final {
     border: 1px solid #637381;
     padding: 10px 0;
-    width: 987.48px;
+    width: 100%;
     margin: 50px auto;
 }
 
@@ -439,7 +435,44 @@ body {
     text-align: right;
 }
 
+.dropbox-partner {
+    width: 987.48px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
 
+.dropbox-partner-image {
+    width: 50%;
+    display: inline-block;
+}
+
+.dropbox-partner-image img {
+    width: 100%;
+    display: inline-block;
+}
+
+.dropbox-partner-text {
+    width: 45%;
+    float: right;
+    padding: 25px;
+}
+
+.dropbox-partner-text h3 {
+    margin-bottom: 20px;
+}
+
+.dropbox-partner-text p {
+    margin-bottom: 40px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.dropbox-partner-text p a {
+    text-decoration: none;
+    border: 1px solid black;
+    color: black;
+    padding: 8px;
+}
 
 /* Sezione delle utilities */
 
