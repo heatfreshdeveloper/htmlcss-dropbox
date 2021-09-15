@@ -141,6 +141,7 @@ body {
     width: 30%;
     height: 900px;
     margin-right: 40px;
+    vertical-align: top;
 }
 
 .type-box1 i {
@@ -614,6 +615,59 @@ body {
 
 .dropbox-card6 h3 {
     margin-bottom: 15px;
+}
+
+.dropbox-team-title {
+    width: 987.48px;
+    margin: 25px auto;
+}
+
+.dropbox-team-title p {
+    margin-top: 25px;
+}
+
+.dropbox-team-title p a {
+    color: #0061FF;
+}
+
+.squares-container {
+    background-color: lightblue;
+    height: calc(30vw);
+}
+
+.squares-container > div {
+    float: left;
+    min-height: 200px;
+    border: 1px solid;
+}
+
+.squares-container > div .square {
+    float: left;
+    width: 50%;
+    height: calc(30vw / 2);
+    border: 1px solid;
+    padding: 12px;
+    position: relative;
+}
+
+.squares-container > div .square img {
+    max-width: 60%;
+    max-height: 60%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    filter: invert(1);
+}
+
+.squares-container > div:nth-child(odd) {
+    width: 30%;
+}
+
+.squares-container > div:nth-child(2) {
+    width: 40%;
+    height: 100%;
+    overflow: auto;
 }
 
 /* Sezione delle utilities */
