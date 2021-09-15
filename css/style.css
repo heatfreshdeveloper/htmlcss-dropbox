@@ -474,6 +474,148 @@ body {
     padding: 8px;
 }
 
+.dropbox-functions {
+    width: 987.48px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.dropbox-functions-title {
+    margin-bottom: 25px;
+}
+
+.dropbox-card1 {
+    width: 30%;
+    display: inline-block;
+    padding: 10px 0;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+.dropbox-functions-image {
+    width: 90%;
+    height: 70%;
+    margin-bottom: 15px;
+}
+
+.dropbox-functions-image img {
+    width: 100%;
+}
+
+.dropbox-card1 h3 {
+    margin-bottom: 15px;
+}
+
+.dropbox-card2 {
+    width: 30%;
+    display: inline-block;
+    padding: 10px 0;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+.dropbox-functions-image {
+    width: 90%;
+    height: 70%;
+    margin-bottom: 15px;
+}
+
+.dropbox-functions-image img {
+    width: 100%;
+}
+
+.dropbox-card2 h3 {
+    margin-bottom: 15px;
+}
+
+.dropbox-card3 {
+    width: 30%;
+    display: inline-block;
+    padding: 10px 0;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+.dropbox-functions-image {
+    width: 90%;
+    height: 70%;
+    margin-bottom: 15px;
+}
+
+.dropbox-functions-image img {
+    width: 100%;
+}
+
+.dropbox-card3 h3 {
+    margin-bottom: 15px;
+}
+
+.dropbox-card4 {
+    width: 30%;
+    display: inline-block;
+    padding: 10px 0;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+.dropbox-functions-image {
+    width: 90%;
+    height: 70%;
+    margin-bottom: 15px;
+}
+
+.dropbox-functions-image img {
+    width: 100%;
+}
+
+.dropbox-card4 h3 {
+    margin-bottom: 15px;
+}
+
+.dropbox-card5 {
+    width: 30%;
+    display: inline-block;
+    padding: 10px 0;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+.dropbox-functions-image {
+    width: 90%;
+    height: 70%;
+    margin-bottom: 15px;
+}
+
+.dropbox-functions-image img {
+    width: 100%;
+}
+
+.dropbox-card5 h3 {
+    margin-bottom: 15px;
+}
+
+.dropbox-card6 {
+    width: 30%;
+    display: inline-block;
+    padding: 10px 0;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+.dropbox-functions-image {
+    width: 90%;
+    height: 70%;
+    margin-bottom: 15px;
+}
+
+.dropbox-functions-image img {
+    width: 100%;
+}
+
+.dropbox-card6 h3 {
+    margin-bottom: 15px;
+}
+
 /* Sezione delle utilities */
 
 .btn-normal {
