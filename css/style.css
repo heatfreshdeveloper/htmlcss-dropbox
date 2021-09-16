@@ -69,6 +69,10 @@ body {
     margin: 0 20px;
 }
 
+.navbar2 .btn-normal {
+    color: white;
+}
+
 .header {
     background-color: #B4D0E7;
     height: 700px;
@@ -694,6 +698,45 @@ body {
 
 .squares-container-p :first-child {
     margin-bottom: 35px;
+}
+
+.dropbox-business {
+    width: 100%;
+    min-height: 300px;
+    background-color: rgb(132, 188, 214);
+    position: relative;
+}
+
+.dropbox-business > div {
+    width: 987.48px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.dropbox-business > div h2 {
+    font-size: 35px;
+    display: inline-block;
+}
+
+.dropbox-business > div h2 a {
+    text-decoration: none;
+    color: rgb(112, 17, 37);
+}
+
+.dropbox-business > div p {
+    background-color: rgb(183, 228, 235);
+    display: inline-block;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    padding: 5px 65px;
+}
+
+.dropbox-business > div p a {
+    text-decoration: none;
+    color: black;
 }
 
 /* Sezione delle utilities */
