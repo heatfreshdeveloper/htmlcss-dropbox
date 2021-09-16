@@ -485,6 +485,10 @@ body {
     margin-bottom: 25px;
 }
 
+.dropbox-functions-title h2 {
+    font-size: 35px;
+}
+
 .dropbox-card1 {
     width: 30%;
     display: inline-block;
@@ -622,6 +626,10 @@ body {
     margin: 25px auto;
 }
 
+.dropbox-team-title h2 {
+    font-size: 35px;
+}
+
 .dropbox-team-title p {
     margin-top: 25px;
 }
@@ -631,21 +639,18 @@ body {
 }
 
 .squares-container {
-    background-color: lightblue;
     height: calc(30vw);
 }
 
 .squares-container > div {
     float: left;
     min-height: 200px;
-    border: 1px solid;
 }
 
 .squares-container > div .square {
     float: left;
     width: 50%;
     height: calc(30vw / 2);
-    border: 1px solid;
     padding: 12px;
     position: relative;
 }
@@ -660,6 +665,7 @@ body {
     filter: invert(1);
 }
 
+
 .squares-container > div:nth-child(odd) {
     width: 30%;
 }
@@ -668,6 +674,26 @@ body {
     width: 40%;
     height: 100%;
     overflow: auto;
+}
+
+.squares-container-image {
+    width: 30%;
+    padding-top: 45px;
+    padding-left: 35px;
+}
+
+.squares-container-image img {
+    width: 100%;
+}
+
+.squares-container-p {
+    width: 85%;
+    padding-top: 65px;
+    padding-left: 35px;
+}
+
+.squares-container-p :first-child {
+    margin-bottom: 35px;
 }
 
 /* Sezione delle utilities */
